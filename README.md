@@ -17,8 +17,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-Hello! I'm Ethan Griesman. I'm a computer engineering student with a lifelong passion for solving real-world problems at the intersection of software and hardware.
-
 <p align="center">Languages and Tools</h1>
 <p align="center">
   <a href="https://skillicons.dev">
