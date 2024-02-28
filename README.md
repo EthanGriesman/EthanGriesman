@@ -8,3 +8,10 @@
     <img src="https://skillicons.dev/icons?i=py,java,c,cpp,arduino,vscode,html,css,js,react,php,eclipse,androidstudio,figma,powershell" />
   </a>
 </p>
+
+<p align="center">Contact Me::</h1>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=linkedin" />
+  </a>
+</p>
