@@ -16,18 +16,20 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<p align="center">Contact Me</h1>
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=gmail,linkedin,stackoverflow" />
-  </a>
-</p>
 
+Hello! I'm Ethan Griesman. I'm a computer engineering student with a lifelong passion for solving real-world problems at the intersection of software and hardware.
 
 <p align="center">Languages and Tools</h1>
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=py,java,c,cpp,arduino,latex,html,css,js,react,php,git,androidstudio,figma,powershell" />
+  </a>
+</p>
+
+<p align="center">Contact Me</h1>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=gmail,linkedin,stackoverflow" />
   </a>
 </p>
 
