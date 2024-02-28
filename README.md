@@ -19,6 +19,6 @@ Here are some ideas to get you started:
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=py,java,c,cpp,arduino,html,css,js,php,git,powershell" />
+    <img src="https://skillicons.dev/icons?i=py,java,c,cpp,arduino,html,css,js,php,git,androidstudio,figma,powershell" />
   </a>
 </p>
