@@ -17,6 +17,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+I'm Ethan Griesman (he/him) 
+
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=py,java,c,cpp,arduino,html,css,js,php,git,androidstudio,figma,powershell" />
