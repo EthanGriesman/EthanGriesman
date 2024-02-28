@@ -22,3 +22,6 @@ Here are some ideas to get you started:
     <img src="https://skillicons.dev/icons?i=py,java,c,cpp,arduino,latex,html,css,js,react,php,git,androidstudio,figma,powershell" />
   </a>
 </p>
+
+
+[![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=jasongaylord&count_private=true&theme=tokyonight&showicons=true)]()
