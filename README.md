@@ -1,4 +1,4 @@
-### Greetings! 👋
+### Ethan Griesman 👋
 
 <!--
 **EthanGriesman/EthanGriesman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 -->
 
 I'm Ethan Griesman (he/him) -
-
+##Tools and Technologies
 <p align="left">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=py,java,c,cpp,arduino,html,css,js,php,git,androidstudio,figma,powershell" />
