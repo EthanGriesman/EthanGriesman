@@ -24,4 +24,4 @@ Here are some ideas to get you started:
 </p>
 
 
-[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=ethangriesman&langs_count=5&theme=tokyonight)]()
+![](https://raw.githubusercontent.com/ethangriesman/github-stats/master/generated/languages.svg#gh-dark-mode-only)
