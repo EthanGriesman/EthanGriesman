@@ -1,4 +1,4 @@
-<h1 align="center">Greetings! My name is Ethan! </h1>
+<h1 align="center">Ethan Griesman </h1>
 
 
 
@@ -9,5 +9,4 @@
   </a>
 </p>
 
-<p align="center">My name is Ethan Griesman. I'm a Computer Engineering student at Iowa State University with interests in embedded systems, full-stack software development, web development.
 
