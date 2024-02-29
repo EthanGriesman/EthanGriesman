@@ -1,4 +1,4 @@
-<h1 align="center">Ethan Griesman </h1>
+<h1 align="center">Greetings! My name is Ethan! </h1>
 
 
 
