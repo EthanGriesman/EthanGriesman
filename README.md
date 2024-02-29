@@ -9,3 +9,5 @@
   </a>
 </p>
 
+My name is Ethan Griesman. I'm a Computer Engineering student at Iowa State University
+
