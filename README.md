@@ -9,5 +9,5 @@
   </a>
 </p>
 
-<p align="center">My name is Ethan Griesman. I'm a Computer Engineering student at Iowa State University with interests in embedded systems, full-stack software development, quantum computing, 
+<p align="center">My name is Ethan Griesman. I'm a Computer Engineering student at Iowa State University with interests in embedded systems, full-stack software development, web development.
 
