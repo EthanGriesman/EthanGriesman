@@ -3,7 +3,7 @@
 
 
 
-<p align="center">
+<p align="center"><Languages>
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=py,java,c,cpp,arduino,html,css,js,react,php,androidstudio,maven,figma,powershell" />
   </a>
