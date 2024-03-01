@@ -9,7 +9,7 @@
   </a>
 </p>
 
-![](https://github-readme-stats.vercel.app/api?username=ethangriesman&show_icons=true&theme=chartreuse-dark)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ethangriesman&hide_progress=true&theme=chartreuse-dark)
+![](https://github-readme-stats.vercel.app/api?username=ethangriesman&show_icons=true&theme=dark)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ethangriesman&hide_progress=true&theme=dark)
 
 
