@@ -9,4 +9,7 @@
   </a>
 </p>
 
+![](https://github-readme-stats.vercel.app/api?username=T2703&show_icons=true&theme=synthwave)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ethangriesman&hide_progress=true&theme=synthwave)
+
 
