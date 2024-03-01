@@ -11,7 +11,7 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=vscode,eclipse,androidstudio,figma" />
+    <img src="https://skillicons.dev/icons?i=vscode,gitlab,eclipse,androidstudio,figma" />
   </a>
 </p>
 
