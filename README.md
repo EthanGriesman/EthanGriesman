@@ -7,6 +7,12 @@
 </p>
 
 
+<p align=”center”>
+
+<img width=”200" height=”200" src=”https://user-images.githubusercontent.com/75753187/123358567-aac7b900-d539-11eb-8275-0b380264bb4c.png" alt=”my banner”>
+
+</p>
+
 
 ![](https://github-readme-stats.vercel.app/api?username=ethangriesman&show_icons=true&theme=dark)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ethangriesman&hide_progress=true&theme=dark)
