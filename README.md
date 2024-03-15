@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=py,java,c,cs,cpp,arduino,html,css,js,react,php,androidstudio,bash,figma,powershell" />
+    <img src="https://skillicons.dev/icons?i=py,java,c,cs,cpp,arduino,raspberrypi,html,css,js,react,php,androidstudio,bash,figma,powershell" />
   </a>
 </p>
 
